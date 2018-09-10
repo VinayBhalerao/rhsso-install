@@ -1,4 +1,4 @@
-# rhsso-install
+# Install RH-SSO 7.2 on Openshift 
 
 ```
 oc login -u developer
