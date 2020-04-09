@@ -11,7 +11,7 @@ oc create -f https://raw.githubusercontent.com/jboss-openshift/application-templ
 
 ```
 
-### Update core set of RH-SSO 7.2 resources for OpenShift in the `openshift` project:
+### Update core set of RH-SSO 7.3 resources for OpenShift in the `openshift` project:
 
 ```
 oc login -u system:admin
